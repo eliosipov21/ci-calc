@@ -1,7 +1,7 @@
 """
 tests for calc app4
 """
-import calculator
+import calculator.py
 
 
 class TestCalculatorApp:
